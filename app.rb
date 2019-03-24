@@ -33,4 +33,9 @@ class App < Sinatra::Base
       }
     }.to_json
   end
+
+  get '/faqs' do
+    result = Faq.all
+    render json: result, status: 200
+  end
 end
