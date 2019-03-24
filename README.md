@@ -1,8 +1,8 @@
 # onebitbot
-Simple chatbot example
+Simple Telegram chatbot example
 
 ## Screens
 ![screen](../master/Screen1.png)
 
-## Screens
+
 ![screen](../master/Screen2.png)
